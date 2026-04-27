@@ -1,0 +1,22 @@
+# Achei Pra Casa - O Papo Reto do Engenheiro
+
+> Engenharia descomplicada, análises técnicas e achadinhos que realmente funcionam. Curadoria feita por Lucas, engenheiro focado em utilidade real e durabilidade.
+
+## Core Principles
+- Pragmatismo técnico (Análise de consumo, ruído e materiais).
+- Transparência total (Aviso de afiliados explícito).
+- Foco em E-E-A-T (Experiência, Expertise, Autoridade e Confiança).
+
+## Sitemap (Main Routes)
+- https://www.acheipracasa.com.br/ : Home com as últimas análises e produtos.
+- https://www.acheipracasa.com.br/sobre : Quem é o Lucas e a metodologia de testes.
+- https://www.acheipracasa.com.br/afiliados : Política de transparência e parcerias.
+- https://www.acheipracasa.com.br/contato : Canal direto para dúvidas técnicas.
+
+## Technical Context
+- Base Stack: Next.js 14, Tailwind CSS, Notion API.
+- Primary Colors: #2A5C5A (Green), #E67E22 (Orange), #F9F7F2 (Off-White).
+- Design System: Minimalist, authoritative, high conversion.
+
+## Affiliate Disclaimer
+Como associado da Amazon e outros parceiros, o site ganha comissões em compras qualificadas. As opiniões são estritamente técnicas e independentes.
